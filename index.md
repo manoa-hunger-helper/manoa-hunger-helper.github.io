@@ -1,6 +1,6 @@
 
-# Table of contents
-
+# TABLE OF CONTENTS
+***
 * [Overview](#overview)
 * [Installation](#installation)
 * [User Guide](#user-guide)
@@ -9,14 +9,16 @@
 * [Development History](#development-history)
 * [Team](#team)
 
-# Overview
+<br/>
 
+# OVERVIEW
+****
 The Manoa Munchie app enables you to login on your phone and determine:
 
-* What specific menu items will be available today at campus center locations.
-* What food is available right now.
-* When a style of food you love is available today.
-
+- What specific menu items will be available today at campus center locations.
+- What food is available right now.
+- When a style of food you love is available today.
+<br/>
 # Installation
 
 First, [install Meteor](https://www.meteor.com/install).
