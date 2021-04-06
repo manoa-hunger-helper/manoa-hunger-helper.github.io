@@ -128,11 +128,11 @@ If all goes well, the template application will appear at [http://localhost:3000
   
  * [Today’s top picks page](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/Hunger-Helper-today-top-pick.jpg)
   
-  ![]<img src="https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/Hunger-Helper-today-top-pick.jpg">
+  <img src="./images/Hunger-Helper-today-top-pick.jpg"/>
   
  * [Recommentdation page](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/Hunger-Helper-recommendation.jpg)
 
-  ![]<img src="https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/Hunger-Helper-recommendation.jpg">
+  <img src="./images/Hunger-Helper-recommendation.jpg"/>
  
 ## [Vendor Homepage]()
 
