@@ -97,5 +97,6 @@ If all goes well, the template application will appear at [http://localhost:3000
 # USER GUIDE
 
 ### [Landing Page]()
-### [SIGN]
+### [Sign Up]()
+### [Sign In]()
 
