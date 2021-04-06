@@ -9,8 +9,6 @@
 * [Development History](#development-history)
 * [Team](#team)
 
-<br/>
-
 # OVERVIEW
 ****
 The Manoa Munchie app enables you to login on your phone and determine:
