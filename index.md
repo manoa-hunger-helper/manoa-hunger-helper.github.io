@@ -121,6 +121,6 @@ If all goes well, the template application will appear at [http://localhost:3000
 
 # DEVELOPMENT HISTORY
 
- * [M1]()
+ * [M1](https://github.com/manoa-hunger-helper/manoa-hunger-helper/projects/1)
  * [M2]()
  * [M3]()
