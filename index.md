@@ -23,8 +23,8 @@ The Manoa Munchie app enables you to login on your phone and determine:
  Four ICS students at the University of Hawaii at Manoa. 
  * [Yongxin yang](https://yongxinyang.github.io/)
  * [Feimei Chen](https://feimeichen.github.io/)
- * [Su Lao](https://github.com/sulao1999)
- * [Jessica Ocampo]()
+ * [Su Lao](https://sulao1999.github.io/)
+ * [Jessica Ocampo](https://jnocampo.github.io/)
 
 # INSTALLATION 
 
