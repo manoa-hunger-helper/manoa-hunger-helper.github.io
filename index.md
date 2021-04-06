@@ -110,7 +110,9 @@ If all goes well, the template application will appear at [http://localhost:3000
 
 <img src="https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/Hunger-Helper-Sign-In.jpg">
 
-## [User Homepage]()
+## [User Homepage](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/Hunger-Helper-user.jpg)
+
+<img src="https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/Hunger-Helper-user.jpg">
 
  * [My Profile page](): Allows users to add personal peference and displays users' like restaurants. 
  * [All Vendors page]()
