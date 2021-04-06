@@ -94,7 +94,8 @@ On some operating systems (particularly Windows), installing bcrypt is much more
 
 If all goes well, the template application will appear at [http://localhost:3000](http://localhost:3000). You can login using the credentials in [settings.development.json](https://github.com/ics-software-engineering/meteor-application-template-react/blob/master/config/settings.development.json), or else register a new account.
 
-## User Interface Walkthrough
+# USER GUIDE
 
-### Landing Page
+### [Landing Page]()
+### [SIGN]
 
