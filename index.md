@@ -150,11 +150,11 @@ If all goes well, the template application will appear at [http://localhost:3000
 
  * [Manage users page]()
 
-   <img src="./images/Hunger-Helper-manage-users.jpg">
+  <img src="./images/Hunger-Helper-manage-users.jpg">
    
  * [Manage Vendors page]()
 
-   <img src="./images/Hunger-Helper-manage-vendors.jpg">
+  <img src="./images/Hunger-Helper-manage-vendors.jpg">
 
 # DEVELOPMENT HISTORY
 
