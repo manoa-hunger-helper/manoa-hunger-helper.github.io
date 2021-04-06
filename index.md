@@ -138,15 +138,15 @@ If all goes well, the template application will appear at [http://localhost:3000
 
  * [My Vendor page](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/Hunger-Helper-Vendor-My%20vendor.jpg)
  
-  ![]<img src="https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/Hunger-Helper-Vendor-My%20vendor.jpg">
+  <img src="./images/Hunger-Helper-Vendor-My%20vendor.jpg">
  
  * [All Vendors page](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/Hunger-Helper-AllVendors.jpg)
  
-  ![]<img src="https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/Hunger-Helper-AllVendors.jpg">
+  <img src="./images/Hunger-Helper-AllVendors.jpg">
 
 ## [Admin Homepage](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/Hunger-Helper-admin.jpg)
 
-   ![]<img src="https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/Hunger-Helper-admin.jpg">
+   <img src="./images/Hunger-Helper-admin.jpg">
 
  * [Manage users page]()
  * [Manage Vendors page]()
