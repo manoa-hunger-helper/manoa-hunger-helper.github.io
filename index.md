@@ -98,7 +98,8 @@ If all goes well, the template application will appear at [http://localhost:3000
 
 # USER GUIDE
 
-## [Landing Page]()
+## [Landing Page](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/Hunger-Helper-Landing.jpg)
+<img src="../images/Hunger-Helper-Landing.jpg">
 ## [Sign Up]()
 ## [Sign In]()
 ## [User Homepage]()
