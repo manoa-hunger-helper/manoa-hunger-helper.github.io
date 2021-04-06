@@ -101,15 +101,20 @@ If all goes well, the template application will appear at [http://localhost:3000
 ## [Sign Up]()
 ## [Sign In]()
 ## [User Homepage]()
+
  * [My Profile page](): Allows users to add personal peference and displays users' like restaurants. 
  * [All Vendors page]()
  * [Vendors Now Available page]()
  * [Today’s top picks page]()
  * [Recommentdation page]()
+ 
 ## [Vendor Homepage]()
+
  * [My Vendor page]()
  * [All Vendors page]()
+
 ## [Admin Homepage]()
+
  * [Manage users page]()
  * [Manage Vendors page]()
 
