@@ -22,14 +22,14 @@ The Manoa Munchie app enables you to login on your phone and determine:
  Four ICS students at the University of Hawaii at Manoa. 
  * [Yongxin yang]()
  * [Feimei Chen](https://feimeichen.github.io/)
- * [Su Lao]()
+ * [Su Lao](https://github.com/sulao1999)
  * [Jessica Ocampo]()
 
 # INSTALLATION 
 
 First, [install Meteor](https://www.meteor.com/install).
 
-Second, download a copy of [Digits](https://github.com/sulao1999/digits/tree/master). Note that Digits is a private repo and so you will need to request permission from the author to gain access to the repo.
+Second, download a copy of [manoa-hunger-helper](https://github.com/manoa-hunger-helper/manoa-hunger-helper).
 
 Third, cd into the app directory install the required libraries with:
 
@@ -92,7 +92,7 @@ W20210402-15:39:02.222(-10)? (STDERR) in the root directory of your application.
 
 On some operating systems (particularly Windows), installing bcrypt is much more difficult than implied by the above message. Bcrypt is only used in Meteor for password checking, so the performance implications are negligible until your site has very high traffic. You can safely ignore this warning without any problems during initial stages of development.
 
-If all goes well, the template application will appear at [http://localhost:3000](http://localhost:3000). You can login using the credentials in [settings.development.json](https://github.com/ics-software-engineering/meteor-application-template-react/blob/master/config/settings.development.json), or else register a new account.
+If all goes well, the template application will appear at [http://localhost:3000](http://localhost:3000). You can login using the credentials in [settings.development.json](https://github.com/manoa-hunger-helper/manoa-hunger-helper/blob/master/config/settings.development.json), or else register a new account.
 
 # USER GUIDE
 
