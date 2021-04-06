@@ -20,7 +20,7 @@ The Manoa Munchie app enables you to login on your phone and determine:
 # TEAM 
 ***
  Four ICS students at the University of Hawaii at Manoa. 
- * [Yongxin yang]()
+ * [Yongxin yang](https://yongxinyang.github.io/)
  * [Feimei Chen](https://feimeichen.github.io/)
  * [Su Lao](https://github.com/sulao1999)
  * [Jessica Ocampo]()
@@ -118,3 +118,8 @@ If all goes well, the template application will appear at [http://localhost:3000
  * [Manage users page]()
  * [Manage Vendors page]()
 
+# DEVELOPMENT HISTORY
+
+ * [M1]()
+ * [M2]()
+ * [M3]()
