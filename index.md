@@ -1,7 +1,5 @@
-<!-- Need a picture -->
-## WELCOME！
 
-## Table of contents
+# Table of contents
 
 * [Overview](#overview)
 * [Installation](#installation)
@@ -11,7 +9,7 @@
 * [Development History](#development-history)
 * [Team](#team)
 
-## Overview
+# Overview
 
 The Manoa Munchie app enables you to login on your phone and determine:
 
@@ -19,7 +17,7 @@ The Manoa Munchie app enables you to login on your phone and determine:
 * What food is available right now.
 * When a style of food you love is available today.
 
-## Installation
+# Installation
 
 First, [install Meteor](https://www.meteor.com/install).
 
