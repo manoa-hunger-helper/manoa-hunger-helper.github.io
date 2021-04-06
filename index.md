@@ -1,5 +1,5 @@
 <!-- Need a picture -->
-# WELCOME！
+## WELCOME！
 
 ## Table of contents
 
