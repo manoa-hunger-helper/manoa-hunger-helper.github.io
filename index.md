@@ -123,7 +123,9 @@ If all goes well, the template application will appear at [http://localhost:3000
  * [My Vendor page]()
  * [All Vendors page]()
 
-## [Admin Homepage]()
+## [Admin Homepage](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/Hunger-Helper-admin.jpg)
+
+   <img src="https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/Hunger-Helper-admin.jpg">
 
  * [Manage users page]()
  * [Manage Vendors page]()
