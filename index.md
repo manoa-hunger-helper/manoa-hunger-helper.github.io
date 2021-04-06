@@ -102,7 +102,9 @@ If all goes well, the template application will appear at [http://localhost:3000
 
 <img src= "https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/Hunger-Helper-Landing.jpg">
 
-## [Sign Up]()
+## [Sign Up](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/Sign%20up.jpg)
+
+<img src= "https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/Sign%20up.jpg">
 ## [Sign In](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/Hunger-Helper-Sign-In.jpg)
 
 <img src="https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/Hunger-Helper-Sign-In.jpg">
