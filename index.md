@@ -16,7 +16,7 @@ The Manoa Munchie app enables you to login on your phone and determine:
 - What specific menu items will be available today at campus center locations.
 - What food is available right now.
 - When a style of food you love is available today.
-<br/>
+
 # Installation
 
 First, [install Meteor](https://www.meteor.com/install).
