@@ -17,7 +17,13 @@ The Manoa Munchie app enables you to login on your phone and determine:
 - What food is available right now.
 - When a style of food you love is available today.
 
-# Installation
+# TEAM 
+***
+ Four ICS students at the University of Hawaii at Manoa. 
+ * [Yongxin yong]()
+ * [Feimei Chen](feimeichen.github.io/)
+
+# INSTALLATION 
 
 First, [install Meteor](https://www.meteor.com/install).
 
