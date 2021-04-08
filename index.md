@@ -99,22 +99,32 @@ If all goes well, the template application will appear at [http://localhost:3000
 # USER GUIDE
 
 ## [Landing Page](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/Hunger-Helper-Landing.jpg)
+**
+The landing page is presented to visitors and brings up a brief introduction to the users and vendors about the functionality of this application. 
 
 <img src="./images/Hunger-Helper-Landing.jpg"/>
 
 ## [Sign Up](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/Sign%20up.jpg)
+**
+If you do not yet have an account on the system, you can register by clicking on “Login”, then the sign up page will show up:
 
 <img src="./images/Sign%20up.jpg"/>
 
 ## [Sign In](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/Hunger-Helper-Sign-In.jpg)
+**
+A return user can login in through this page.
 
 <img src="./images/Hunger-Helper-Sign-In.jpg"/>
 
 ## [User Homepage](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/Hunger-Helper-user.jpg)
+**
+The user homepage will show up when the user logs in successfully. It is just similar to the landing page, but the message in the middle is describing what the users can expect through the All vendors page and Today’s Top Pick page.  The links to these two pages and the other two are accessible at the top Menu Bar. 
 
 <img src="./images/Hunger-Helper-user.jpg"/>
 
  * [My Profile page](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/Hunger-Helper-MyProfile.jpg)
+  **
+  In this page, users can Users can add new or remove current preferences on the food type (ie. vegetarian, hawaiian, drink etc.). They can “like” vendors in the     All Vendors page and these vendors will be viewable under “My favorite vendors”. 
   
  <img src="./images/Hunger-Helper-MyProfile.jpg"/>
   
