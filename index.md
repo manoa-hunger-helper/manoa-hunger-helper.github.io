@@ -130,13 +130,13 @@ The user homepage will show up when the user logs in successfully. It is just si
   
  * [All Vendors page](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/Hunger-Helper-AllVendors.jpg)
  
-  Simply list all the vendors available at UH Manoa (in the card format). Allowing users to like or unlike. 
+   Simply list all the vendors available at UH Manoa (in the card format). Allowing users to like or unlike. 
  
  <img src="./images/Hunger-Helper-AllVendors.jpg"/>
  
  * [Vendors Now Available page](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/Hunger-Helper-Vendors-available.jpg)
 
-  List all the vendors that are open at UH Manoa at this specific time. (in the card format). 
+   List all the vendors that are open at UH Manoa at this specific time. (in the card format). 
  
   <img src ="./images/Hunger-Helper-Vendors-available.jpg"/>
   
@@ -160,7 +160,7 @@ The user homepage will show up when the user logs in successfully. It is just si
 
  * [My Vendor page](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/Hunger-Helper-Vendor-My%20vendor.jpg)
  
-  Allows the logged in vendor to edit their information as well as their menu items, including adding or deleting a menu item; modifying the price or type of the     item; changing the ethnicity, location, open hour, contact, payment option image of the restaurant.  
+   Allows the logged in vendor to edit their information as well as their menu items, including adding or deleting a menu item; modifying the price or type of the    item; changing the ethnicity, location, open hour, contact, payment option image of the restaurant.  
 
   <img src="./images/Hunger-Helper-Vendor-My%20vendor.jpg">
  
