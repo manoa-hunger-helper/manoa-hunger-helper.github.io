@@ -205,5 +205,5 @@ The user homepage will show up when the user logs in successfully. It is just si
 # DEVELOPMENT HISTORY
 
  * [M1](https://github.com/manoa-hunger-helper/manoa-hunger-helper/projects/1)
- * [M2]()
+ * [M2](https://github.com/manoa-hunger-helper/manoa-hunger-helper/projects/3)
  * [M3]()
