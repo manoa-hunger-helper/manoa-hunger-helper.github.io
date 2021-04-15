@@ -8,6 +8,7 @@
 * [Developer Guide](#developer-guide)
 * [Development History](#development-history)
 * [Team](#team)
+* [Deployment](#deployment)
 
 # OVERVIEW
 ****
@@ -25,6 +26,9 @@ Manoa-hunger-helper enables you to login on your phone and determine:
  * [Feimei Chen](https://feimeichen.github.io/)
  * [Su Lao](https://sulao1999.github.io/)
  * [Jessica Ocampo](https://jnocampo.github.io/)
+
+# Deployment
+[Manoa Hunger Helper](http://104.236.106.167/#/)
 
 # INSTALLATION 
 
