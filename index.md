@@ -132,12 +132,14 @@ The user homepage will show up when the user logs in successfully. It is just si
   
  <img src="./images/Hunger-Helper-MyProfile.jpg"/>
   
- * [All Vendors page](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/Hunger-Helper-AllVendors.jpg)
+ * [All Vendors page](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/All-vendor.jpeg)
  
-   Simply list all the vendors available at UH Manoa (in the card format). Allowing users to like or unlike. 
+ Simply list all the vendors available at UH Manoa (in the card format). Allowing users to like or unlike. 
  
- <img src="./images/Hunger-Helper-AllVendors.jpg"/>
- 
+  <img src="./images/All-vendor.jpeg">
+  
+   
+
  * [Vendors Now Available page](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/Hunger-Helper-Vendors-available.jpg)
 
    List all the vendors that are open at UH Manoa at this specific time. (in the card format). 
@@ -170,10 +172,6 @@ The user homepage will show up when the user logs in successfully. It is just si
 
   <img src="./images/my-vendor.JPG">
  
- * [All Vendors page](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/All-vendor.jpeg)
- 
-  <img src="./images/All-vendor.jpeg">
-  
   * [Edit my vendor page](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/edit-vendor.jpeg)
   
   <img src="./images/edit-vendor.jpeg">
