@@ -174,8 +174,13 @@ The user homepage will show up when the user logs in successfully. It is just si
  
   <img src="./images/Hunger-Helper-AllVendors.jpg">
   
-  * [Edit my vendor page]
-  * [Edit my menu page]
+  * [Edit my vendor page](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/edit-vendor.jpeg)
+  
+  <img src="./images/edit-vendor.jpeg">
+  
+  * [Edit my menu page](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/edit-menu.jpeg)
+  
+  <img src="./images/edit-menu.jpeg>
   
   * [Add Vendor Information page](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/vendor-add-info.JPG)
   
