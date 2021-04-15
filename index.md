@@ -180,7 +180,7 @@ The user homepage will show up when the user logs in successfully. It is just si
   
   * [Edit my menu page](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/edit-menu.jpeg)
   
-  <img src="./images/edit-menu.jpeg>
+  <img src="./images/edit-menu.jpeg">
   
   * [Add Vendor Information page](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/vendor-add-info.JPG)
   
