@@ -174,6 +174,9 @@ The user homepage will show up when the user logs in successfully. It is just si
  
   <img src="./images/Hunger-Helper-AllVendors.jpg">
   
+  * [Edit my vendor page]
+  * [Edit my menu page]
+  
   * [Add Vendor Information page](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/vendor-add-info.JPG)
   
   Allows the logged in vendor to add information.
