@@ -102,29 +102,29 @@ If all goes well, the template application will appear at [http://localhost:3000
 
 # USER GUIDE
 
-## [Landing Page](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/Hunger-Helper-Landing.jpg)
+## [Landing Page](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/landing.JPG)
 
 The landing page is presented to visitors and brings up a brief introduction to the users and vendors about the functionality of this application. 
 
-<img src="./images/Hunger-Helper-Landing.jpg"/>
+<img src="./images/landing.JPG"/>
 
-## [Sign Up](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/Sign%20up.jpg)
+## [Sign Up](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/signup.JPG)
 
 If you do not yet have an account on the system, you can register by clicking on “Login”, then the sign up page will show up:
 
-<img src="./images/Sign%20up.jpg"/>
+<img src="./images/signup.JPG"/>
 
-## [Sign In](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/Hunger-Helper-Sign-In.jpg)
+## [Sign In](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/signin.JPG)
 
 A return user can login in through this page.
 
-<img src="./images/Hunger-Helper-Sign-In.jpg"/>
+<img src="./images/signin.JPG "/>
 
-## [User Homepage](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/Hunger-Helper-user.jpg)
+## [User Homepage](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/user-home.JPG)
 
 The user homepage will show up when the user logs in successfully. It is just similar to the landing page, but the message in the middle is describing what the users can expect through the All vendors page and Today’s Top Pick page.  The links to these two pages and the other two are accessible at the top Menu Bar. 
 
-<img src="./images/Hunger-Helper-user.jpg"/>
+<img src="./images/user-home.JPG"/>
 
  * [My Profile page](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/Hunger-Helper-MyProfile.jpg)
   
@@ -161,23 +161,33 @@ The user homepage will show up when the user logs in successfully. It is just si
    The Vendor homepage will show up when the logged in user has the Vendor role. It is also similar to the landing page, but the message in the middle clarifies   
    what the vendor can do through the All vendors page and My Vendor page. The links to these two pages are accessible at the top Menu Bar (may have more if time 
    permits, like Add Vendor, Add feature item...).
+   
+   <img src="./images/vendor-home.JPG">
 
- * [My Vendor page](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/Hunger-Helper-Vendor-My%20vendor.jpg)
+ * [My Vendor page](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/my-vendor.JPG)
  
    Allows the logged in vendor to edit their information as well as their menu items, including adding or deleting a menu item; modifying the price or type of the    item; changing the ethnicity, location, open hour, contact, payment option image of the restaurant.  
 
-  <img src="./images/Hunger-Helper-Vendor-My%20vendor.jpg">
+  <img src="./images/my-vendor.JPG">
  
  * [All Vendors page](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/Hunger-Helper-AllVendors.jpg)
  
   <img src="./images/Hunger-Helper-AllVendors.jpg">
+  
+  * [Add Vendor Information page](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/vendor-add-info.JPG)
+ 
+  <img src="./images/vendor-add-info.JPG">
+  
+  * [Add Vendor Information page](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/vendor-add-menu-food.JPG)
+ 
+  <img src="./images/vendor-add-menu-food.JPG">
 
-## [Admin Homepage](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/Hunger-Helper-admin.jpg)
+## [Admin Homepage](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/images/admin-home.JPG)
    
    The Admin homepage will show up when the logged in user has the Admin role. It is again similar to the landing page, with the message in the middle clarifying  
    the authority an admin has. The links to the Manage Users page and Manage Vendor page are accessible at the top Menu Bar. 
    
-   <img src="./images/Hunger-Helper-admin.jpg">
+   <img src="./images/admin-home.JPG">
 
  * [Manage users page]()
  
