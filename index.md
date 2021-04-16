@@ -148,13 +148,13 @@ The user homepage will show up when the user logs in successfully. It is just si
    
    This page allows users to search the specific menu item based on the ethnicity of food.
 
-  <img src="./images/Submenu.png"/>
+  <img src="./images/menu-page.png"/>
   
- * [Recommendation page](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/Hunger-Helper-recommendation.jpg)
+ * [Recommendation page](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/Submenu.png)
    
    There are three submenus to fit users'references. Users could go to each category of the menu by clicking on the corresponding options. 
 
-  <img src="./images/Hunger-Helper-recommendation.jpg"/>
+  <img src="./images/Submenu.png"/>
  
 ## [Vendor Homepage]()
    
