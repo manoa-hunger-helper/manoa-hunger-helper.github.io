@@ -126,20 +126,12 @@ The user homepage will show up when the user logs in successfully. It is just si
 
 <img src="./images/user-home.JPG"/>
 
- * [My Profile page](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/Hunger-Helper-MyProfile.jpg)
-  
-   In this page, users can Users can add new or remove current preferences on the food type (ie. vegetarian, hawaiian, drink etc.). They can “like” vendors in the    All Vendors page and these vendors will be viewable under “My favorite vendors”. 
-  
- <img src="./images/Hunger-Helper-MyProfile.jpg"/>
-  
  * [All Vendors page](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/All-vendor.jpeg)
  
  Simply list all the vendors available at UH Manoa (in the card format). Allowing users to like or unlike. 
  
   <img src="./images/All-vendor.jpeg">
   
-   
-
  * [Vendors Now Available page](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/Hunger-Helper-Vendors-available.jpg)
 
    List all the vendors that are open at UH Manoa at this specific time. (in the card format). 
@@ -152,9 +144,15 @@ The user homepage will show up when the user logs in successfully. It is just si
   
   <img src="./images/Hunger-Helper-today-top-pick.jpg"/>
   
+  [Menu page](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/menu-page.png)
+   
+   This page allows users to search the specific menu item based on the ethnicity of food.
+
+  <img src="./images/Submenu.png"/>
+  
  * [Recommendation page](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/Hunger-Helper-recommendation.jpg)
    
-   This page will show all of the menu items that match the preferences associated with the logged in user.
+   There are three submenus to fit users'references. Users could go to each category of the menu by clicking on the corresponding options. 
 
   <img src="./images/Hunger-Helper-recommendation.jpg"/>
  
