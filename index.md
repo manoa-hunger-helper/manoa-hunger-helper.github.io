@@ -144,11 +144,11 @@ The user homepage will show up when the user logs in successfully. It is just si
   
   <img src="./images/Hunger-Helper-today-top-pick.jpg"/>
   
-  [Menu page](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/menu-page.png)
+  * [Menu page](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/meun-page.png)
    
    This page allows users to search the specific menu item based on the ethnicity of food.
 
-  <img src="./images/menu-page.png"/>
+  <img src="./images/meun-page.png"/>
   
  * [Recommendation page](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/Submenu.png)
    
