@@ -132,11 +132,11 @@ The user homepage will show up when the user logs in successfully. It is just si
  
   <img src="./images/All-vendor.jpeg">
   
- * [Vendors Now Available page](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/Hunger-Helper-Vendors-available.jpg)
+ * [Vendors Now Available page](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/Vendor-available.jpeg)
 
    List all the vendors that are open at UH Manoa at this specific time. (in the card format). 
  
-  <img src ="./images/Hunger-Helper-Vendors-available.jpg"/>
+  <img src ="./images/Vendor-available.jpeg"/>
   
  * [Today’s top picks page](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/Hunger-Helper-today-top-pick.jpg)
    
