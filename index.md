@@ -112,19 +112,19 @@ The landing page is presented to visitors and brings up a brief introduction to 
 
 If you do not yet have an account on the system, you can register by clicking on “Login”, then the sign up page will show up:
 
-<img src="./images/signup.JPG"/>
+<img src="./images/M2-register.png"/>
 
 ## [Sign In](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/signin.JPG)
 
 A return user can login in through this page.
 
-<img src="./images/signin.JPG "/>
+<img src="./images/M2-signin.png "/>
 
 ## [User Homepage](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/user-home.JPG)
 
 The user homepage will show up when the user logs in successfully. It is just similar to the landing page, but the message in the middle is describing what the users can expect through the All vendors page and Today’s Top Pick page.  The links to these two pages and the other two are accessible at the top Menu Bar. 
 
-<img src="./images/user-home.JPG"/>
+<img src="./images/M2-userhome.png"/>
 
  * [All Vendors page](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/All-vendor.jpeg)
  
