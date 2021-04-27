@@ -214,6 +214,8 @@ The user homepage will show up when the user logs in successfully. It is just si
   * [Add My Information](http://104.236.106.167/#/add-my-information)
   
   <img src="./images/OwnerInfo2.jpeg">
+  
+   <img src="./images/OwnerInfo3.jpeg">
    
    New Vendor Owner should add information in oder to provide information for admin and user to contact them. 
 
