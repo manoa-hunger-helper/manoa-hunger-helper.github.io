@@ -139,7 +139,7 @@ The user homepage will show up when the user logs in successfully. It is just si
 
    List all the vendors that are open at UH Manoa at this specific time. (in the card format). 
  
-  <img src ="./images/Vendor-available.jpeg"/>
+  <img src ="./images/Vendoravailable.jpeg"/>
   
  * [Today’s top picks page](http://104.236.106.167/#/todays-top-picks)
    
