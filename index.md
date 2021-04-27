@@ -102,35 +102,35 @@ If all goes well, the template application will appear at [http://localhost:3000
 
 # USER GUIDE
 
-## [Landing Page](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/landing.JPG)
+## [Landing Page](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/M2-landing.png)
 
 The landing page is presented to visitors and brings up a brief introduction to the users and vendors about the functionality of this application. 
 
-<img src="./images/landing.JPG"/>
+<img src="./images/M2-landing.png"/>
 
-## [Sign Up](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/signup.JPG)
+## [Sign Up](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/M2-register.png)
 
 If you do not yet have an account on the system, you can register by clicking on “Login”, then the sign up page will show up:
 
 <img src="./images/M2-register.png"/>
 
-## [Sign In](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/signin.JPG)
+## [Sign In](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/M2-signin.png)
 
 A return user can login in through this page.
 
-<img src="./images/M2-signin.png "/>
+<img src="./images/M2-signin.png"/>
 
-## [User Homepage](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/user-home.JPG)
+## [User Homepage](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/M2-userhome.png)
 
 The user homepage will show up when the user logs in successfully. It is just similar to the landing page, but the message in the middle is describing what the users can expect through the All vendors page and Today’s Top Pick page.  The links to these two pages and the other two are accessible at the top Menu Bar. 
 
 <img src="./images/M2-userhome.png"/>
 
- * [All Vendors page](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/All-vendor.jpeg)
+ * [All Vendors page](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/M2-allvendors.png)
  
  Simply list all the vendors available at UH Manoa (in the card format). Allowing users to like or unlike. 
  
-  <img src="./images/All-vendor.jpeg">
+  <img src="./images/M2-allvendors.png">
   
  * [Vendors Now Available page](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/Vendor-available.jpeg)
 
@@ -138,23 +138,23 @@ The user homepage will show up when the user logs in successfully. It is just si
  
   <img src ="./images/Vendor-available.jpeg"/>
   
- * [Today’s top picks page](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/Hunger-Helper-today-top-pick.jpg)
+ * [Today’s top picks page](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/M2-todaytoppick.png)
    
-   This page displays the featured menu item curated by vendors.
+   This page displays the featured menu item recommended by users. Also indicates the number of times each item is recommended. 
   
-  <img src="./images/Hunger-Helper-today-top-pick.jpg"/>
+  <img src="./images/M2-todaytoppick.png"/>
   
-  * [Menu page](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/meun-page.png)
+  * [Menu page](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/M2-filtermenu.png)
    
    This page allows users to search the specific menu item based on the ethnicity of food.
 
-  <img src="./images/meun-page.png"/>
+  <img src="./images/filtermenu.png"/>
   
- * [Recommendation page](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/Submenu.png)
+ * [Recommendation page](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/M2-recommendmenu.png)
    
    There are three submenus to fit users'references. Users could go to each category of the menu by clicking on the corresponding options. 
 
-  <img src="./images/Submenu.png"/>
+  <img src="./images/M2-recommendmenu.png"/>
  
 ## [Vendor Homepage]()
    
@@ -162,13 +162,13 @@ The user homepage will show up when the user logs in successfully. It is just si
    what the vendor can do through the All vendors page and My Vendor page. The links to these two pages are accessible at the top Menu Bar (may have more if time 
    permits, like Add Vendor, Add feature item...).
    
-   <img src="./images/vendor-home.JPG">
+   <img src="./images/M2-vendorhome.png">
 
- * [My Vendor page](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/my-vendor.JPG)
+ * [My Vendor page](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/M2-myvendor.png)
  
    Allows the logged in vendor to edit their information as well as their menu items, including adding or deleting a menu item; modifying the price or type of the    item; changing the ethnicity, location, open hour, contact, payment option image of the restaurant.  
 
-  <img src="./images/my-vendor.JPG">
+  <img src="./images/M2-myvendor.png">
  
   * [Edit my vendor page](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/edit-vendor.jpeg)
   
@@ -190,24 +190,24 @@ The user homepage will show up when the user logs in successfully. It is just si
  
   <img src="./images/vendor-add-menu-food.JPG">
 
-## [Admin Homepage](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/images/admin-home.JPG)
+## [Admin Homepage](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/images/M2-adminhome.png)
    
    The Admin homepage will show up when the logged in user has the Admin role. It is again similar to the landing page, with the message in the middle clarifying  
    the authority an admin has. The links to the Manage Users page and Manage Vendor page are accessible at the top Menu Bar. 
    
-   <img src="./images/admin-home.JPG">
+   <img src="./images/M2-adminhome.png">
 
  * [Manage users page]()
  
-   Verified admin users get the access to edit users’ preferences. 
+   Verified admin users get the access to edit users’ information or remove the user that is no longer active. 
 
-  <img src="./images/Hunger-Helper-manage-users.jpg">
+  <img src="./images/M2-manageusers.png">
    
  * [Manage Vendors page]()
 
-   Verified admin users get the access to remove  the vendor that is no longer available. 
+   Verified admin users get the access to remove the vendor that is no longer available. 
    
-  <img src="./images/Hunger-Helper-manage-vendors.jpg">
+  <img src="./images/M2-managevendors.png">
   
 
 # DEVELOPMENT HISTORY
