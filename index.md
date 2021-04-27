@@ -161,15 +161,18 @@ The user homepage will show up when the user logs in successfully. It is just si
   
   * [Add my information page](http://104.236.106.167/#/add-my-information)
    
-   In this page, new registered user can add his personal information by filling out the form . 
+   In this page, new registered user can add his personal information by filling out the form , and if you already added it, you cannot add it again, but you can edit it. 
 
-  <img src="./images/M2-addinfo.png"/>
+  <img src="./images/UserInfo2"/>
   
+  <img src="./images/UserInfo3"/>
+  
+
   * [View my information page](http://104.236.106.167/#/my-information)
    
    In this page, the logged in user can view and edit his personal information. 
 
-  <img src="./images/M2-viewinfo.png"/>
+  <img src="./images/UserInfo1"/>
  
 ## [Vendor Homepage](http://104.236.106.167/#/vendor-home)
    
