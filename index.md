@@ -148,13 +148,25 @@ The user homepage will show up when the user logs in successfully. It is just si
    
    This page allows users to search the specific menu item based on the ethnicity of food.
 
-  <img src="./images/filtermenu.png"/>
+  <img src="./images/M2-filtermenu.png"/>
   
  * [Recommendation page](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/M2-recommendmenu.png)
    
    There are three submenus to fit users'references. Users could go to each category of the menu by clicking on the corresponding options. 
 
   <img src="./images/M2-recommendmenu.png"/>
+  
+  * [Add my information page](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/M2-addinfo.png)
+   
+   In this page, new registered user can add his personal information by filling out the form . 
+
+  <img src="./images/M2-addinfo.png"/>
+  
+  * [View my information page](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/M2-viewinfo.png)
+   
+   In this page, the logged in user can view and edit his personal information. 
+
+  <img src="./images/M2-viewinfo.png"/>
  
 ## [Vendor Homepage]()
    
@@ -178,17 +190,17 @@ The user homepage will show up when the user logs in successfully. It is just si
   
   <img src="./images/edit-menu.jpeg">
   
-  * [Add Vendor Information page](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/vendor-add-info.JPG)
+  * [Add Vendor Information page](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/M2-addvendor.png)
   
   Allows the logged in vendor to add information.
  
-  <img src="./images/vendor-add-info.JPG">
+  <img src="./images/M2-addvendor.png">
   
-  * [Add Vendor Information page](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/vendor-add-menu-food.JPG)
+  * [Add Food page](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/M2-addfood.png)
 
   Allows the logged in vendor to add food to menu.
  
-  <img src="./images/vendor-add-menu-food.JPG">
+  <img src="./images/M2-addfood.png">
 
 ## [Admin Homepage](https://github.com/manoa-hunger-helper/manoa-hunger-helper.github.io/blob/main/images/images/M2-adminhome.png)
    
@@ -213,5 +225,8 @@ The user homepage will show up when the user logs in successfully. It is just si
 # DEVELOPMENT HISTORY
 
  * [M1](https://github.com/manoa-hunger-helper/manoa-hunger-helper/projects/1)
+ 
+ <img src="./images/m1.png">
+ 
  * [M2](https://github.com/manoa-hunger-helper/manoa-hunger-helper/projects/3)
  * [M3]()
