@@ -172,7 +172,7 @@ The user homepage will show up when the user logs in successfully. It is just si
    
    In this page, the logged in user can view and edit his personal information. 
 
-  <img src="./images/UserInfo1.jepg"/>
+  <img src="./images/UserInfo1.jpeg"/>
  
 ## [Vendor Homepage](http://104.236.106.167/#/vendor-home)
    
