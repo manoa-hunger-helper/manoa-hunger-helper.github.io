@@ -208,7 +208,6 @@ The user homepage will show up when the user logs in successfully. It is just si
   * [View My Information](http://104.236.106.167/#/my-information)
   
   <img src="./images/OwnerInfo1.jpeg">
-  
   Owner can see his information in this page, and admin and others can use information to contat with him
   
   * [Add My Information](http://104.236.106.167/#/add-my-information)
