@@ -2,7 +2,6 @@
 # TABLE OF CONTENTS
 ***
 * [Overview](#overview)
-* [Installation](#installation)
 * [User Guide](#user-guide)
 * [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
