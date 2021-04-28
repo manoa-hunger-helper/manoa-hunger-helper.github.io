@@ -56,16 +56,16 @@ The user homepage will show up when the user logs in successfully. It is just si
  
  Simply list all the vendors available at UH Manoa with detailed information. 
  
-  <img src="./images/Card-1.jpeg">
+  <img src="./images/M2-allvendors1.png">
   
-  <img src="./images/Card-3.jpeg">
+  <img src="./images/M2-allvendors2.png">
   
   
  * [Vendors Now Available page](http://104.236.106.167/#/available-vendors)
 
    List all the vendors that are open at UH Manoa at this specific time. (in the card format). 
  
-  <img src ="./images/Vendoravailable.jpeg"/>
+  <img src ="./images/M2-vendornow.png"/>
   
  * [Today’s top picks page](http://104.236.106.167/#/todays-top-picks)
    
