@@ -98,7 +98,7 @@ The user homepage will show up when the user logs in successfully. It is just si
    
    In this page, the logged in user can view and edit his personal information. 
 
-  <img src="./images/UserInfo1.jpeg"/>
+  <img src="./images/M2-viewinfo.png"/>
  
 ## [Vendor Homepage](http://104.236.106.167/#/vendor-home)
    
@@ -116,11 +116,11 @@ The user homepage will show up when the user logs in successfully. It is just si
  
   * [Edit my vendor page](http://104.236.106.167/#/editVedorInfor/v5grbRaGEMcBN28H3)
   
-  <img src="./images/edit-vendor.jpeg">
+  <img src="./images/M2-editvendorinfo">
   
   * [Edit my menu page](http://104.236.106.167/#/editMyMenu/mkQhSA6JNwtJ3bc4w)
   
-  <img src="./images/edit-menu.jpeg">
+  <img src="./images/M2-editfood.png">
   
   * [Add Vendor Information page](http://104.236.106.167/#/add-vendor-info)
   
