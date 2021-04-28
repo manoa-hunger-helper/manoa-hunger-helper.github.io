@@ -58,7 +58,7 @@ The user homepage will show up when the user logs in successfully. It is just si
  
   <img src="./images/M2-allvendors1.png">
   
-  <img src="./images/M2-allvendors2.png">
+  <img src="./images/M2-allvendos2.png">
   
   
  * [Vendors Now Available page](http://104.236.106.167/#/available-vendors)
