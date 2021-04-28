@@ -141,9 +141,9 @@ The user homepage will show up when the user logs in successfully. It is just si
  
   * [Add My Information](http://104.236.106.167/#/add-my-information)
   
-  <img src="./images/OwnerInfo2.jpeg">
+  <img src="./images/M2-alreadyaddinfo.png">
   
-   <img src="./images/OwnerInfo3.jpeg">
+  <img src="./images/OwnerInfo3.jpeg">
    
    New Vendors should add contact information so that admins and others can find the contact information.  
 
