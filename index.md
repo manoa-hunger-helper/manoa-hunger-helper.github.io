@@ -264,4 +264,7 @@ meteor npm run testcafe
  <img src="./images/m1.png">
  
  * [M2](https://github.com/manoa-hunger-helper/manoa-hunger-helper/projects/3)
+
+<img src="./images/m2.png">
+
  * [M3](https://github.com/manoa-hunger-helper/manoa-hunger-helper/projects/4)
