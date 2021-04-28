@@ -30,76 +30,6 @@ Manoa-hunger-helper enables you to login on your phone and determine:
 # Deployment
 [Manoa Hunger Helper](http://104.236.106.167/#/)
 
-# INSTALLATION 
-
-First, [install Meteor](https://www.meteor.com/install).
-
-Second, download a copy of [manoa-hunger-helper](https://github.com/manoa-hunger-helper/manoa-hunger-helper).
-
-Third, cd into the app directory install the required libraries with:
-
-```
-$ meteor npm install
-```
-
-Once the libraries are installed, you can run the application by invoking:
-
-```
-$ meteor npm run start
-```
-
-The first time you run the app, it will create some default users and data. Here is the output:
-
-```
-meteor npm run start
-
-> meteor-application-template-react@ start \Users\github\manoa-hungry-helper.github.io\app
-> meteor --no-release-check --exclude-archs web.browser.legacy,web.cordova --settings ../config/settings.development.json
-
-[[[[[ \Users\github\manoa-hungry-helper.github.io\app ]]]]]
-
-=> Started proxy.
-=> Started MongoDB.
-W20210402-13:33:02.091(-10)? (STDERR) Note: you are using a pure-JavaScript implementation of bcrypt.
-W20210402-13:33:02.218(-10)? (STDERR) While this implementation will work correctly, it is known to be
-W20210402-13:33:02.219(-10)? (STDERR) approximately three times slower than the native implementation.
-W20210402-13:33:02.219(-10)? (STDERR) In order to use the native implementation instead, run
-W20210402-13:33:02.220(-10)? (STDERR)
-W20210402-13:33:02.221(-10)? (STDERR)   meteor npm install --save bcrypt
-W20210402-13:33:02.221(-10)? (STDERR)
-W20210402-13:33:02.222(-10)? (STDERR) in the root directory of your application.
-I20180227-13:33:02.716(-10)? Creating the default user(s)
-I20180227-13:33:02.742(-10)?   Creating user admin@foo.com.
-I20180227-13:33:02.743(-10)?   Creating user john@foo.com.
-I20180227-13:33:02.743(-10)? Creating default data.
-I20180227-13:33:02.743(-10)?   Adding: Basket (john@foo.com)
-I20180227-13:33:02.743(-10)?   Adding: Bicycle (john@foo.com)
-I20180227-13:33:02.743(-10)?   Adding: Banana (admin@foo.com)
-I20180227-13:33:02.744(-10)?   Adding: Boogie Board (admin@foo.com)
-I20180227-13:33:02.745(-10)? Monti APM: completed instrumenting the app
-=> Started your app.
-
-=> App running at: http://localhost:3000/
-   Type Control-C twice to stop.
-```
-
-### Note regarding "bcrypt warning":
-
-```
-W20210402-13:33:02.091(-10)? (STDERR) Note: you are using a pure-JavaScript implementation of bcrypt.
-W20210402-13:33:02.218(-10)? (STDERR) While this implementation will work correctly, it is known to be
-W20210402-13:33:02.219(-10)? (STDERR) approximately three times slower than the native implementation.
-W20210402-13:33:02.219(-10)? (STDERR) In order to use the native implementation instead, run
-W20210402-13:33:02.220(-10)? (STDERR)
-W20210402-13:33:02.221(-10)? (STDERR)   meteor npm install --save bcrypt
-W20210402-13:33:02.221(-10)? (STDERR)
-W20210402-13:33:02.222(-10)? (STDERR) in the root directory of your application.
-```
-
-On some operating systems (particularly Windows), installing bcrypt is much more difficult than implied by the above message. Bcrypt is only used in Meteor for password checking, so the performance implications are negligible until your site has very high traffic. You can safely ignore this warning without any problems during initial stages of development.
-
-If all goes well, the template application will appear at [http://localhost:3000](http://localhost:3000). You can login using the credentials in [settings.development.json](https://github.com/manoa-hunger-helper/manoa-hunger-helper/blob/master/config/settings.development.json), or else register a new account.
-
 # USER GUIDE
 
 ## [Landing Page](http://104.236.106.167/#/)
@@ -241,6 +171,75 @@ The user homepage will show up when the user logs in successfully. It is just si
    
   <img src="./images/M2-managevendors.png">
   
+# DEVELOPER GUIDE
+
+First, [install Meteor](https://www.meteor.com/install).
+
+Second, download a copy of [manoa-hunger-helper](https://github.com/manoa-hunger-helper/manoa-hunger-helper).
+
+Third, cd into the app directory install the required libraries with:
+
+```
+$ meteor npm install
+```
+
+Once the libraries are installed, you can run the application by invoking:
+
+```
+$ meteor npm run start
+```
+
+The first time you run the app, it will create some default users and data. Here is the output:
+
+```
+meteor npm run start
+
+> meteor-application-template-react@ start \Users\github\manoa-hungry-helper.github.io\app
+> meteor --no-release-check --exclude-archs web.browser.legacy,web.cordova --settings ../config/settings.development.json
+
+[[[[[ \Users\github\manoa-hungry-helper.github.io\app ]]]]]
+
+=> Started proxy.
+=> Started MongoDB.
+W20210402-13:33:02.091(-10)? (STDERR) Note: you are using a pure-JavaScript implementation of bcrypt.
+W20210402-13:33:02.218(-10)? (STDERR) While this implementation will work correctly, it is known to be
+W20210402-13:33:02.219(-10)? (STDERR) approximately three times slower than the native implementation.
+W20210402-13:33:02.219(-10)? (STDERR) In order to use the native implementation instead, run
+W20210402-13:33:02.220(-10)? (STDERR)
+W20210402-13:33:02.221(-10)? (STDERR)   meteor npm install --save bcrypt
+W20210402-13:33:02.221(-10)? (STDERR)
+W20210402-13:33:02.222(-10)? (STDERR) in the root directory of your application.
+I20180227-13:33:02.716(-10)? Creating the default user(s)
+I20180227-13:33:02.742(-10)?   Creating user admin@foo.com.
+I20180227-13:33:02.743(-10)?   Creating user john@foo.com.
+I20180227-13:33:02.743(-10)? Creating default data.
+I20180227-13:33:02.743(-10)?   Adding: Basket (john@foo.com)
+I20180227-13:33:02.743(-10)?   Adding: Bicycle (john@foo.com)
+I20180227-13:33:02.743(-10)?   Adding: Banana (admin@foo.com)
+I20180227-13:33:02.744(-10)?   Adding: Boogie Board (admin@foo.com)
+I20180227-13:33:02.745(-10)? Monti APM: completed instrumenting the app
+=> Started your app.
+
+=> App running at: http://localhost:3000/
+   Type Control-C twice to stop.
+```
+
+### Note regarding "bcrypt warning":
+
+```
+W20210402-13:33:02.091(-10)? (STDERR) Note: you are using a pure-JavaScript implementation of bcrypt.
+W20210402-13:33:02.218(-10)? (STDERR) While this implementation will work correctly, it is known to be
+W20210402-13:33:02.219(-10)? (STDERR) approximately three times slower than the native implementation.
+W20210402-13:33:02.219(-10)? (STDERR) In order to use the native implementation instead, run
+W20210402-13:33:02.220(-10)? (STDERR)
+W20210402-13:33:02.221(-10)? (STDERR)   meteor npm install --save bcrypt
+W20210402-13:33:02.221(-10)? (STDERR)
+W20210402-13:33:02.222(-10)? (STDERR) in the root directory of your application.
+```
+
+On some operating systems (particularly Windows), installing bcrypt is much more difficult than implied by the above message. Bcrypt is only used in Meteor for password checking, so the performance implications are negligible until your site has very high traffic. You can safely ignore this warning without any problems during initial stages of development.
+
+If all goes well, the template application will appear at [http://localhost:3000](http://localhost:3000). You can login using the credentials in [settings.development.json](https://github.com/manoa-hunger-helper/manoa-hunger-helper/blob/master/config/settings.development.json), or else register a new account.
 
 # DEVELOPMENT HISTORY
 
