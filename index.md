@@ -27,9 +27,6 @@ Manoa-hunger-helper enables you to login on your phone and determine:
  * [Su Lao](https://sulao1999.github.io/)
  * [Jessica Ocampo](https://jnocampo.github.io/)
 
-# Deployment
-[Manoa Hunger Helper](http://104.236.106.167/#/)
-
 # USER GUIDE
 
 ## [Landing Page](http://104.236.106.167/#/)
@@ -240,6 +237,27 @@ W20210402-13:33:02.222(-10)? (STDERR) in the root directory of your application.
 On some operating systems (particularly Windows), installing bcrypt is much more difficult than implied by the above message. Bcrypt is only used in Meteor for password checking, so the performance implications are negligible until your site has very high traffic. You can safely ignore this warning without any problems during initial stages of development.
 
 If all goes well, the template application will appear at [http://localhost:3000](http://localhost:3000). You can login using the credentials in [settings.development.json](https://github.com/manoa-hunger-helper/manoa-hunger-helper/blob/master/config/settings.development.json), or else register a new account.
+
+## Initialization
+Run meteor reset to reset the system with default data
+```
+meteor reset
+```
+
+## ESLint 
+Eslint is the coding standard used in this project. Run meteor npm run lint to check eslint error.
+```
+meteor npm run lint
+```
+
+## TestCafe
+TestCafe is available tests for all pages. Use testcafe can easy to test all pages in the application are displayed, and that all forms operate correctly with legal inputs.
+```
+meteor npm run testcafe
+```
+
+# Deployment
+[Manoa Hunger Helper](http://104.236.106.167/#/)
 
 # DEVELOPMENT HISTORY
 
