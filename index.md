@@ -87,13 +87,12 @@ The user homepage will show up when the user logs in successfully. It is just si
   
   * [Add my information page](http://104.236.106.167/#/add-my-information)
    
-   In this page, new registered user can add his personal information by filling out the form , and if you already added it, you cannot add it again, but you can edit it. 
+   In this page, the new registered user can add his personal information by filling out the form, the returned user can only edit his information. 
 
-  <img src="./images/M2-alreadyaddinfo"/>
+  <img src="./images/M2-alreadyaddinfo.png"/>
   
   <img src="./images/UserInfo3.jpeg"/>
   
-
   * [View my information page](http://104.236.106.167/#/my-information)
    
    In this page, the logged in user can view and edit his personal information. 
@@ -116,7 +115,7 @@ The user homepage will show up when the user logs in successfully. It is just si
  
   * [Edit my vendor page](http://104.236.106.167/#/editVedorInfor/v5grbRaGEMcBN28H3)
   
-  <img src="./images/M2-editvendorinfo">
+  <img src="./images/M2-editvendorinfo.png">
   
   * [Edit my menu page](http://104.236.106.167/#/editMyMenu/mkQhSA6JNwtJ3bc4w)
   
@@ -136,7 +135,7 @@ The user homepage will show up when the user logs in successfully. It is just si
   
   * [View My Information](http://104.236.106.167/#/my-information)
   
-   Owner can see his information in this page, and admin and others can use information to contat with him
+   Vendor can also view his added information in this page. 
    
   <img src="./images/OwnerInfo1.jpeg">
  
@@ -146,7 +145,7 @@ The user homepage will show up when the user logs in successfully. It is just si
   
    <img src="./images/OwnerInfo3.jpeg">
    
-   New Vendor Owner should add information in oder to provide information for admin and user to contact them. 
+   New Vendors should add contact information so that admins and others can find the contact information.  
 
 ## [Admin Homepage](http://104.236.106.167/#/admin-home)
    
