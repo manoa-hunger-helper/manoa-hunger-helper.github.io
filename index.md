@@ -18,9 +18,9 @@ Manoa-hunger-helper enables you to login on your phone and determine:
 - What food is available right now.
 - When a style of food you love is available today.
 
-# TEAM 
+# TEAM
 ***
- Four ICS students at the University of Hawaii at Manoa. 
+ Four ICS students at the University of Hawaii at Manoa.
  * [Yongxin yang](https://yongxinyang.github.io/)
  * [Feimei Chen](https://feimeichen.github.io/)
  * [Su Lao](https://sulao1999.github.io/)
@@ -30,7 +30,7 @@ Manoa-hunger-helper enables you to login on your phone and determine:
 
 ## [Landing Page](http://104.236.106.167/#/)
 
-The landing page is presented to visitors and brings up a brief introduction to the users and vendors about the functionality of this application. 
+The landing page is presented to visitors and brings up a brief introduction to the users and vendors about the functionality of this application.
 
 <img src="./images/M2-landing.png"/>
 
@@ -48,124 +48,124 @@ A return user can login in through this page.
 
 ## [User Homepage](http://104.236.106.167/#/user-home)
 
-The user homepage will show up when the user logs in successfully. It is just similar to the landing page, but the message in the middle is describing what the users can expect through the All vendors page and Today’s Top Pick page.  The links to these two pages and the other two are accessible at the top Menu Bar. 
+The user homepage will show up when the user logs in successfully. It is just similar to the landing page, but the message in the middle is describing what the users can expect through the All vendors page and Today’s Top Pick page.  The links to these two pages and the other two are accessible at the top Menu Bar.
 
 <img src="./images/M2-userhome.png"/>
 
  * [All Vendors page](http://104.236.106.167/#/all-vendors)
- 
- Simply list all the vendors available at UH Manoa with detailed information. 
- 
+
+ Simply list all the vendors available at UH Manoa with detailed information.
+
   <img src="./images/M2-allvendors1.png">
-  
+
   <img src="./images/M2-allvendos2.png">
-  
-  
+
+
  * [Vendors Now Available page](http://104.236.106.167/#/available-vendors)
 
-   List all the vendors that are open at UH Manoa at this specific time. (in the card format). 
- 
+   List all the vendors that are open at UH Manoa at this specific time. (in the card format).
+
   <img src ="./images/M2-vendornow.png"/>
-  
+
  * [Today’s top picks page](http://104.236.106.167/#/todays-top-picks)
-   
-   This page displays the featured menu item recommended by users. Also indicates the number of times each item is recommended. 
-  
+
+   This page displays the featured menu item recommended by users. Also indicates the number of times each item is recommended.
+
   <img src="./images/M2-todaytoppick.png"/>
-  
+
   * [Menu page](http://104.236.106.167/#/view)
-   
+
    This page allows users to search the specific menu item based on the ethnicity of food.
 
   <img src="./images/M2-filtermenu.png"/>
-  
+
  * [Recommendation page](http://104.236.106.167/#/vegan-menu)
-   
-   There are three submenus to fit users'references. Users could go to each category of the menu by clicking on the corresponding options. 
+
+   There are three submenus to fit users'references. Users could go to each category of the menu by clicking on the corresponding options.
 
   <img src="./images/M2-recommendmenu.png"/>
-  
+
   * [Add my information page](http://104.236.106.167/#/add-my-information)
-   
-   In this page, the new registered user can add his personal information by filling out the form, the returned user can only edit his information. 
+
+   In this page, the new registered user can add his personal information by filling out the form, the returned user can only edit his information.
 
   <img src="./images/M2-alreadyaddinfo.png"/>
-  
+
   <img src="./images/M2-addinfo.png"/>
-  
+
   * [View my information page](http://104.236.106.167/#/my-information)
-   
-   In this page, the logged in user can view and edit his personal information. 
+
+   In this page, the logged in user can view and edit his personal information.
 
   <img src="./images/M2-viewinfo.png"/>
- 
+
 ## [Vendor Homepage](http://104.236.106.167/#/vendor-home)
-   
-   The Vendor homepage will show up when the logged in user has the Vendor role. It is also similar to the landing page, but the message in the middle clarifies   
-   what the vendor can do through the All vendors page and My Vendor page. The links to these two pages are accessible at the top Menu Bar (may have more if time 
+
+   The Vendor homepage will show up when the logged in user has the Vendor role. It is also similar to the landing page, but the message in the middle clarifies
+   what the vendor can do through the All vendors page and My Vendor page. The links to these two pages are accessible at the top Menu Bar (may have more if time
    permits, like Add Vendor, Add feature item...).
-   
+
    <img src="./images/M2-vendorhome.png">
 
  * [My Vendor page](http://104.236.106.167/#/my-vendor)
- 
-   Allows the logged in vendor to edit their information as well as their menu items, including adding or deleting a menu item; modifying the price or type of the    item; changing the ethnicity, location, open hour, contact, payment option image of the restaurant.  
+
+   Allows the logged in vendor to edit their information as well as their menu items, including adding or deleting a menu item; modifying the price or type of the    item; changing the ethnicity, location, open hour, contact, payment option image of the restaurant.
 
   <img src="./images/M2-myvendor.png">
- 
+
   * [Edit my vendor page](http://104.236.106.167/#/editVedorInfor/v5grbRaGEMcBN28H3)
-  
+
   <img src="./images/M2-editvendorinfo.png">
-  
+
   * [Edit my menu page](http://104.236.106.167/#/editMyMenu/mkQhSA6JNwtJ3bc4w)
-  
+
   <img src="./images/M2-editfood.png">
-  
+
   * [Add Vendor Information page](http://104.236.106.167/#/add-vendor-info)
-  
+
   Allows the logged in vendor to add information.
- 
+
   <img src="./images/M2-addvendor.png">
-  
+
   * [Add Food page](http://104.236.106.167/#/add-menu-food)
 
   Allows the logged in vendor to add food to menu.
- 
+
   <img src="./images/M2-addfood.png">
-  
+
   * [View My Information](http://104.236.106.167/#/my-information)
-  
-   Vendor can also view his added information in this page. 
-   
+
+   Vendor can also view his added information in this page.
+
   <img src="./images/M2-vendorviewinfo.png">
- 
+
   * [Add My Information](http://104.236.106.167/#/add-my-information)
-  
+
   <img src="./images/M2-alreadyaddinfo.png">
-  
+
   <img src="./images/M2-vendoraddinfo.png">
-   
-   New Vendors should add contact information so that admins and others can find the contact information.  
+
+   New Vendors should add contact information so that admins and others can find the contact information.
 
 ## [Admin Homepage](http://104.236.106.167/#/admin-home)
-   
-   The Admin homepage will show up when the logged in user has the Admin role. It is again similar to the landing page, with the message in the middle clarifying  
-   the authority an admin has. The links to the Manage Users page and Manage Vendor page are accessible at the top Menu Bar. 
-   
+
+   The Admin homepage will show up when the logged in user has the Admin role. It is again similar to the landing page, with the message in the middle clarifying
+   the authority an admin has. The links to the Manage Users page and Manage Vendor page are accessible at the top Menu Bar.
+
    <img src="./images/M2-adminhome.png">
 
  * [Manage users page](http://104.236.106.167/#/admin-manage-users)
- 
-   Verified admin users get the access to edit users’ information or remove the user that is no longer active. 
+
+   Verified admin users get the access to edit users’ information or remove the user that is no longer active.
 
   <img src="./images/M2-manageusers.png">
-   
+
  * [Manage Vendors page](http://104.236.106.167/#/admin-manage-vendors)
 
-   Verified admin users get the access to remove the vendor that is no longer available. 
-   
+   Verified admin users get the access to remove the vendor that is no longer available.
+
   <img src="./images/M2-managevendors.png">
-  
+
 # DEVELOPER GUIDE
 
 First, [install Meteor](https://www.meteor.com/install).
@@ -242,7 +242,7 @@ Run meteor reset to reset the system with default data
 meteor reset
 ```
 
-## ESLint 
+## ESLint
 Eslint is the coding standard used in this project. Run meteor npm run lint to check eslint error.
 ```
 meteor npm run lint
@@ -260,14 +260,16 @@ meteor npm run testcafe
 # DEVELOPMENT HISTORY
 
  * [M1](https://github.com/manoa-hunger-helper/manoa-hunger-helper/projects/1)
- 
+
  <img src="./images/m1.png">
- 
+
  * [M2](https://github.com/manoa-hunger-helper/manoa-hunger-helper/projects/3)
 
 <img src="./images/m2.png">
 
  * [M3](https://github.com/manoa-hunger-helper/manoa-hunger-helper/projects/4)
+
  # Community Feedback
- 
+
  * Awesome website, perfect for people don’t have Yelp. Pictures are making hungry already, it would be the best if you can actually make the two buttons for all venders and today’s pick in front page “aloha time to eat” clickable.
+ * Good website. I think the website should allow people to access all vendor page and menu pages without logging in to their account. This allows the visitor to understand the website.
