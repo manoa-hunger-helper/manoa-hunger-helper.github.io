@@ -269,7 +269,7 @@ meteor npm run testcafe
 
  * [M3](https://github.com/manoa-hunger-helper/manoa-hunger-helper/projects/4)
 
- # Community Feedback
+# COMMUNITY FEEDBACK
 
  * Awesome website, perfect for people don’t have Yelp. Pictures are making hungry already, it would be the best if you can actually make the two buttons for all venders and today’s pick in front page “aloha time to eat” clickable.
  * Good website. I think the website should allow people to access all vendor page and menu pages without logging in to their account. This allows the visitor to understand the website.
