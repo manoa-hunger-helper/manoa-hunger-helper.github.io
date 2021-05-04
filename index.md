@@ -273,3 +273,4 @@ meteor npm run testcafe
 
  * Awesome website, perfect for people don’t have Yelp. Pictures are making hungry already, it would be the best if you can actually make the two buttons for all venders and today’s pick in front page “aloha time to eat” clickable.
  * Good website. I think the website should allow people to access all vendor page and menu pages without logging in to their account. This allows the visitor to understand the website.
+ * Very Interesting and useful. I like the efficiency of this application as I only need one-click to sign up and recommend food. I first thought the two logos in the middle can link to somewhere. I probably would feel a bit strange why a user need to enter address and phone number. Despite of that, Other things look pretty good! Your layout is clean, simple and well-organized and the text font is big enough to catch my eyes. I also enjoy the Hawaiian style of your app.  
