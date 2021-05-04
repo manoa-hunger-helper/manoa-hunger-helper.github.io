@@ -270,4 +270,4 @@ meteor npm run testcafe
  * [M3](https://github.com/manoa-hunger-helper/manoa-hunger-helper/projects/4)
  # Community Feedback
  
- *Awesome website, perfect for people don’t have Yelp. Pictures are making hungry already, it would be the best if you can actually make the two buttons for all venders and today’s pick in front page “aloha time to eat” clickable.
+ * Awesome website, perfect for people don’t have Yelp. Pictures are making hungry already, it would be the best if you can actually make the two buttons for all venders and today’s pick in front page “aloha time to eat” clickable.
