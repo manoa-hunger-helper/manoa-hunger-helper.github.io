@@ -158,7 +158,7 @@ The user homepage will show up when the user logs in successfully. It is just si
 
    Verified admin users get the access to edit users’ information or remove the user that is no longer active.
 
-  <img src="./images/Manage-user-information.png">
+  <img src="./images/Manage-information.png">
 
  * [Manage Vendors page](http://104.236.106.167/#/admin-manage-vendors)
 
