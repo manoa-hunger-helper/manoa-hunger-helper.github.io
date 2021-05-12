@@ -97,7 +97,7 @@ The user homepage will show up when the user logs in successfully. It is just si
 
    In this page, the logged in user can view and edit his personal information.
 
-  <img src="./images/M2-viewinfo.png"/>
+  <img src="./images/userinformation.png"/>
 
 ## [Vendor Homepage](http://104.236.106.167/#/vendor-home)
 
@@ -137,7 +137,7 @@ The user homepage will show up when the user logs in successfully. It is just si
 
    Vendor can also view his added information in this page.
 
-  <img src="./images/M2-vendorviewinfo.png">
+  <img src="./images/ownerinformation.png">
 
   * [Add My Information](http://104.236.106.167/#/add-my-information)
 
@@ -158,7 +158,7 @@ The user homepage will show up when the user logs in successfully. It is just si
 
    Verified admin users get the access to edit users’ information or remove the user that is no longer active.
 
-  <img src="./images/M2-manageusers.png">
+  <img src="./images/Manage-user-information.png">
 
  * [Manage Vendors page](http://104.236.106.167/#/admin-manage-vendors)
 
