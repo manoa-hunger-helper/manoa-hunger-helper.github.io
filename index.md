@@ -234,7 +234,7 @@ W20210402-13:33:02.222(-10)? (STDERR) in the root directory of your application.
 
 On some operating systems (particularly Windows), installing bcrypt is much more difficult than implied by the above message. Bcrypt is only used in Meteor for password checking, so the performance implications are negligible until your site has very high traffic. You can safely ignore this warning without any problems during initial stages of development.
 
-If all goes well, the template application will appear at [http://localhost:3000](http://localhost:3000). You can login using the credentials in [settings.development.json](https://github.com/manoa-hunger-helper/manoa-hunger-helper/blob/master/config/settings.development.json), or else register a new account.
+If all goes well, the template application will appear at [http://localhost:3000](http://localhost:3000). You can login using the credentials in [settings.development.json](https://github.com/manoa-hunger-helper/manoa-hunger-helper/blob/6d37cf6c329e4f182db121ac988e0dd787b417ad/config/settings.development.json#L110), or else register a new account.
 
 ## Initialization
 Run meteor reset to reset the system with default data
